@@ -2,7 +2,7 @@
 Fireship.io - Stripe Course as Firebase cloud functions!
 
 # Installation
-Simple. Clone the repo. run the following:
+Simple. Clone the repo. And run the following from the repo folder:
 ```sh
 $ npm i --save
 ```
